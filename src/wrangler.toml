@@ -1,0 +1,3 @@
+name = "rendezvous-form-backend"
+main = "src/index.js"
+compatibility_date = "2026-10-05"
